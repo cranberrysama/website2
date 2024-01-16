@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: static/uploads/0CV_Mengqiao.pdf
+        url: uploads/0CV_Mengqiao.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
