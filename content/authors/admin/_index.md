@@ -1,99 +1,76 @@
----
 # Display name
-title: 吳健雄
+title: 刘梦乔
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Mengqiao Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mengqiao
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📜
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Ph.D. candidate in Agricultural Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Department of Agricultural Economics, Texas A&M University 
+    url: https://agecon.tamu.edu/people/liu-mengqiao/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: 'mailto:mengqiaoliu@tamu.edu'
+    label: E-mail Me 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-
+    url: www.linkedin.com/in/mengqiao-liu-156162128
+    
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Agricultural Economics
+    institution: Texas A&M university
+    date_start: 2016
+    date_end: 2024
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _Chinese Labor Market, the gold market and online aution_. Supervised by [Yu Yvette Zhang](https://sites.google.com/view/yvette-zhang). Presented papers at 2 AAEA conferences, with the papers being under review in 2 SSCI journals.
+    
+  - area: BSc in Finance
+    institution: Southwestern University of Finance and Economics (西南财经大学)
+    date_start: 2011
+    date_end: 2015
     summary: |
-      GPA: 3.8/4.0
+      Thesis: _CVaR模型在中国资本市场的应用_.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-01-01
+    date_end: 2017-06-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collecting data and modeling for analyzing international trade of dairy products 
+      Supervised by Dr.McCarl
+
+  - position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics - USDA - Borlaug Institute
+    company_url: ''
+    company_logo: ''
+    date_start: 2022
+    date_end: 2023
+    summary: |
+      Responsibilities include:
+      - Searching for topic related paper and Data extraction
+      - Risk of Bias assessments
+      Supervised by Dr.Ishdorj
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
