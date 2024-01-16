@@ -53,8 +53,8 @@ work:
     company_name: Department of Agricultural Economics 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2017-01-01
+    date_end: 2017-06-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
