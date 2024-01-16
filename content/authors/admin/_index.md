@@ -59,18 +59,19 @@ work:
       Responsibilities include:
       - Collecting international trade data on dairy products
       - GAMS modeling for optimization
+      - Supervised by Dr.McCarl
    
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics - USDA - Borlaug Institute
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022
+    date_end: 2023
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Searching for topic related papers and Data extraction
+      - Risk of Bias assessments
+      - Supervised by Dr.Ishdorj
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
