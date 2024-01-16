@@ -49,15 +49,17 @@ education:
       Thesis: _CVaR模型在中国资本市场的应用_.
     
 work:
-  - position: Graduate Assistant of Research
-    company_name: Department of Agricultural Economics
+   - position: Graduate Assistant of Research
+    company_name: Department of Agricultural Economics 
     company_url: ''
     company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2017-06-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Collecting data and modeling for analyzing international trade of dairy products 
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
