@@ -49,16 +49,6 @@ education:
       Thesis: _CVaR模型在中国资本市场的应用_.
     
 work:
-  - position: Graduate Assistant of Research
-    company_name: Department of Agricultural Economics 
-    company_url: ''
-    company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2017-06-31
-    summary: 
-      Responsibilities include:
-      - Collecting data and modeling for analyzing international trade of dairy products 
-      Supervised by Dr.McCarl
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
