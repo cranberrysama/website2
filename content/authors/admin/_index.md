@@ -69,7 +69,7 @@ work:
     date_end: 2024-01-01
     summary: |
       Responsibilities include:
-      - Searching for topic related papers and Data extraction
+      - Searching for topic-related papers and Data extraction
       - Risk of Bias assessments
       - Supervised by Dr.Ishdorj
 
@@ -78,34 +78,38 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Matlab
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: R
+        description: ''
+        percent: 100
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: SAS
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera
+        icon: bowl-food
+      - name: Writing bed-time story
+        description: 'www.youtube.com/@BeddyStories'
+        percent: 80
+        icon: baby
+      - name: Gaming
+        description: ''
+        percent: 40
+        icon: gamepad
 
 languages:
   - name: English
