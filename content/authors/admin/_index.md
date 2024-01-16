@@ -57,9 +57,9 @@ work:
     date_end: 2017-07-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collecting international trade data on dairy products
+      - GAMS modeling for optimization
+   
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
