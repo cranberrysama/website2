@@ -35,7 +35,7 @@ profiles:
 
 education:
   - area: PhD in Agricultural Economics
-    institution: Texas A&M university
+    institution: TAMU agecon
     date_start: 2016
     date_end: 2024
     summary: |
