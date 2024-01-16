@@ -35,7 +35,7 @@ profiles:
 
 education:
   - area: PhD in Agricultural Economics
-    institution: TAMU agecon
+    institution: Texas A&M university
     date_start: 2016
     date_end: 2024
     summary: |
@@ -53,8 +53,8 @@ work:
     company_name: Department of Agricultural Economics 
     company_url: ''
     company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2017-06-31
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
