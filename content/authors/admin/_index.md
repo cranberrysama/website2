@@ -36,15 +36,15 @@ profiles:
 education:
   - area: PhD in Agricultural Economics
     institution: Texas A&M university
-    date_start: 2016
-    date_end: 2024
+    date_start: 2016-09-01
+    date_end: 2024-06-01
     summary: |
       Thesis on _Chinese Labor Market, the gold market and online aution_. Supervised by [Yu Yvette Zhang](https://sites.google.com/view/yvette-zhang). Presented papers at 2 AAEA conferences, with the papers being under review in 2 SSCI journals.
     
   - area: BSc in Finance
     institution: Southwestern University of Finance and Economics (西南财经大学)
-    date_start: 2011
-    date_end: 2015
+    date_start: 2011-09-01
+    date_end: 2015-06-01
     summary: |
       Thesis: _CVaR模型在中国资本市场的应用_.
     
@@ -65,8 +65,8 @@ work:
     company_name: Department of Agricultural Economics - USDA - Borlaug Institute
     company_url: ''
     company_logo: ''
-    date_start: 2022
-    date_end: 2023
+    date_start: 2022-06-01
+    date_end: 2024-01-01
     summary: |
       Responsibilities include:
       - Searching for topic related papers and Data extraction
