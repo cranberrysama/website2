@@ -32,6 +32,8 @@ profiles:
     label: E-mail Me 
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mengqiao-liu-156162128
+  - icon: brands/youtube
+    url: https://www.youtube.com/@BeddyStories
 
 education:
   - area: PhD in Agricultural Economics
@@ -94,21 +96,21 @@ skills:
         description: ''
         percent: 80
         icon: circle-stack
-  - name: Hobbies
+  - name: Research Interests
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Cooking
+      - name: Industrial Organization
         description: ''
-        percent: 80
+        percent: 100
         icon: 🍳
-      - name: Writing bed-time story
-        description: 'www.youtube.com/@BeddyStories'
-        percent: 80
-        icon: 👶
-      - name: Gaming
+      - name: Financial Economics
         description: ''
-        percent: 40
+        percent: 100
+        icon: 👶
+      - name: Agricultural Policy
+        description: ''
+        percent: 100
         icon: 🎮
 
 languages:
