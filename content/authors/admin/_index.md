@@ -104,7 +104,7 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-       - name: Financial Economics
+      - name: Financial Economics
         description: ''
         percent: 100
         icon: code-bracket
