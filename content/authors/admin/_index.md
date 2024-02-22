@@ -32,9 +32,7 @@ profiles:
     label: E-mail Me 
   - icon: brands/linkedin
     url: www.linkedin.com/in/mengqiao-liu-156162128
-  - icon: brands/youtube
-    url: www.youtube.com/@BeddyStories
-  
+
 education:
   - area: PhD in Agricultural Economics
     institution: Texas A&M university
@@ -96,22 +94,22 @@ skills:
         description: ''
         percent: 80
         icon: circle-stack
-  - name: Research Interests
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Industrial Organization
+      - name: Cooking
         description: ''
-        percent: 100
-        icon: code-bracket
-      - name: Financial Economics
+        percent: 80
+        icon: 🍳
+      - name: Writing bed-time story
+        description: 'www.youtube.com/@BeddyStories'
+        percent: 80
+        icon: 👶
+      - name: Gaming
         description: ''
-        percent: 100
-        icon: code-bracket
-      - name: Agricultural Policy
-        description: ''
-        percent: 100
-        icon: code-bracket
+        percent: 40
+        icon: 🎮
 
 languages:
   - name: English
@@ -126,4 +124,4 @@ languages:
 
 ---
 
-I am currently a PhD candidate in Agricultural Economics at TAMU. I possess a profound knowledge of economic and finance theories, including industrial organization, auction theory, labor economics, and portfolio risk management. I am also skilled in empirical analysis approaches, such as Difference in Differences (DiD), Discrete choice model, dynamic copula theory, and meta-analysis. In my previous research work, I have experience working with various programming languages and tools, such as R, Matlab, SAS, and Python.
+I am currently a PhD candidate in AGECON of TAMU. I possess a profound knowledge of economic and finance theories, including auction theory, labor economics, and portfolio risk management. I am also skilled in empirical analysis approaches, such as Difference in Differences (DiD), discrete choice models, dynamic copula theory, and meta-analysis. I have rich experience working with various programming languages and tools, such as R, Matlab, SAS, and Python.
