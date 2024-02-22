@@ -103,15 +103,15 @@ skills:
       - name: Industrial Organization
         description: ''
         percent: 100
-        icon: 🍳
+        icon: code-bracket
        - name: Financial Economics
         description: ''
         percent: 100
-        icon: 🍳
+        icon: code-bracket
       - name: Agricultural Policy
         description: ''
         percent: 100
-        icon: 🎮
+        icon: code-bracket
 
 languages:
   - name: English
