@@ -32,7 +32,7 @@ profiles:
     label: E-mail Me 
   - icon: brands/linkedin
     url: www.linkedin.com/in/mengqiao-liu-156162128
-- icon: brands/youtube
+  - icon: brands/youtube
     url: www.youtube.com/@BeddyStories
   
 education:
