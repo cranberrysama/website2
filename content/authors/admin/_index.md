@@ -31,7 +31,7 @@ profiles:
     url: 'mailto:mengqiaoliu@tamu.edu'
     label: E-mail Me 
   - icon: brands/linkedin
-    url: www.linkedin.com/in/mengqiao-liu-156162128
+    url: https://www.linkedin.com/in/mengqiao-liu-156162128
 
 education:
   - area: PhD in Agricultural Economics
