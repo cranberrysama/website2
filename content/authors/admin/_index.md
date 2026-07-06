@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in Agricultural Economics
+role: Assistant Research Scientist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -32,8 +32,8 @@ profiles:
     label: E-mail Me 
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mengqiao-liu-156162128
-  - icon: brands/youtube
-    url: https://www.youtube.com/@BeddyStories
+  - icon: solid/graduation-cap
+    url: https://scholar.google.com/citations?user=1Ezi4psAAAAJ&hl=en
 
 education:
   - area: PhD in Agricultural Economics
@@ -41,39 +41,28 @@ education:
     date_start: 2016-09-01
     date_end: 2024-06-01
     summary: |
-      Thesis on _Chinese Labor Market, the gold market and online aution_. Supervised by [Yu Yvette Zhang](https://sites.google.com/view/yvette-zhang). Presented papers at 2 AAEA conferences, with the papers being under review in 2 SSCI journals.
+      Thesis on _the Chinese labor market, the gold market, and online auctions_. One publication: "Curbing brain drain: Incentive programs and economic fundamentals in shaping college students' job location decisions" in [Economic Analysis and Policy](https://www.sciencedirect.com/science/article/abs/pii/S0313592625001912).
     
   - area: BSc in Finance
     institution: Southwestern University of Finance and Economics (西南财经大学)
     date_start: 2011-09-01
     date_end: 2015-06-01
-    summary: |
-      Thesis: _CVaR模型在中国资本市场的应用_.
+
     
 work:
-  - position: Graduate Assistant of Research
+  - position: Assistant Research Scientist 
     company_name: Department of Agricultural Economics 
     company_url: ''
     company_logo: ''
-    date_start: 2017-01-01
-    date_end: 2017-07-01
+    date_start: 2025-12-01
+    date_end: current
     summary: |2-
       Responsibilities include:
-      - Collecting international trade data on dairy products
-      - GAMS modeling for optimization
-      - Supervised by Dr.McCarl
-   
-  - position: Graduate Assistant of Research
-    company_name: Department of Agricultural Economics - USDA - Borlaug Institute
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-06-01
-    date_end: 2024-01-01
-    summary: |
-      Responsibilities include:
-      - Searching for topic-related papers and Data extraction
-      - Risk of Bias assessments
-      - Supervised by Dr.Ishdorj
+      - Climate change effect on US ag section
+      - TEA (Techno-Economic Analysis) and LCA (Life Cycle Assessment)
+      - Supervised by Dr.Fei, Dr.Wang and Dr.McCarl
+  
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -104,11 +93,11 @@ skills:
         description: ''
         percent: 100
         icon: 🍳
-      - name: Financial Economics
+      - name: Resource and Enviorment Economics
         description: ''
         percent: 100
         icon: 👶
-      - name: Agricultural Policy
+      - name: TEA (Techno-Economic Analysis) and LCA (Life Cycle Assessment)
         description: ''
         percent: 100
         icon: 🎮
@@ -125,5 +114,4 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ---
-
-I am currently a PhD candidate in AGECON of TAMU. I possess a profound knowledge of economic and finance theories, including auction theory, labor economics, and portfolio risk management. I am also skilled in empirical analysis approaches, such as Difference in Differences (DiD), discrete choice models, dynamic copula theory, and meta-analysis. I have rich experience working with various programming languages and tools, such as R, Matlab, SAS, and Python.
+I am an Assistant Research Scientist in the Department of Agricultural Economics at Texas A&M University, where I also completed my Ph.D. in Agricultural Economics. My research spans agricultural productivity, climate change economics, sustainability economics, and labor economics, with a particular focus on the economic dimensions of food security, technological innovation, and climate adaptation. I am proficient in a range of empirical methods, including econometric modeling, panel data analysis, techno-economic analysis (TEA), life cycle assessment (LCA), and supply chain and market equilibrium modeling. I have extensive experience working with large-scale datasets and programming tools including R, Python, MATLAB, and SAS.
