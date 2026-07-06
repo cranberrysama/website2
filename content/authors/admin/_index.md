@@ -102,11 +102,6 @@ skills:
         percent: 100
         icon: 🎮
 
-languages:
-  - name: English
-    percent: 70
-  - name: Chinese
-    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
