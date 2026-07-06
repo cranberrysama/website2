@@ -55,7 +55,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-12-01
-    date_end: current
+    date_end: ""
     summary: |2-
       Responsibilities include:
       - Climate change effect on US ag section
